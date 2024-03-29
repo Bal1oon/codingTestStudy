@@ -17,7 +17,7 @@ def solution(n, times, pays):
 
     for i in range(n):
         if i - times[i] < -1:   # 시작 인덱스가 0이기 때문에 1일 근무 시 -1이 최솟값이 됨
-            d[i] = d[i-1]       # 근무 일수가 N+1일을 넘으면 계산하지 않음
+            d[i] = d[i-1]       # 근무 일수가 N+1일을 넘으면 계산하지 않음 (아예 계산하는 것이 아닌(continue) 그 전까지 입력된 최댓값을 가져옴)
         else:
             d[i] = max(d[i - times[i]] + pays[i], d[i-1])
     
@@ -32,3 +32,8 @@ for _ in range(n):
 
 s = solution(n, times, pays)
 print(s)
+
+# Line 20을 continue로 하고 계산을 하지 않고 넘어가니 테스트 케이스는 통과했지만
+# 백준에서 실제 채점을 진행했을 때 계속 통과하지 않았다. 
+# 중간에 N+1일을 넘는 근무가 등장했을 때, d[i]값이 0으로 유지되어 d[i+1]값이
+# 무조건 d[i - times[i]] + pays[i]으로 설정되는 문제가 있었다.
