@@ -9,7 +9,7 @@
 
 def solution(n, times, pays):
     ## N+1일을 초과하는 경우가 있기 때문에 순서를 역으로 함
-    ## a[i] = a[i-T[i]] + P[i]
+    ## a[i] = a[i-T[i]] + P[i] <- 기본 점화식
 
     d = [0] * n
     times = times[::-1]
@@ -18,7 +18,7 @@ def solution(n, times, pays):
     for i in range(n):
         if i - times[i] < -1:   # 시작 인덱스가 0이기 때문에 1일 근무 시 -1이 최솟값이 됨
             continue            # 근무 일수가 N+1일을 넘으면 계산하지 않음
-        d[i] = d[i - times[i]] + pays[i]
+        d[i] = max(d[i - times[i]] + pays[i], d[i-1])
     
     return max(d)
 
