@@ -27,9 +27,7 @@ def solution(n, triangle):
             else:
                 d[i][j] = max(d[i-1][j], d[i-1][j-1]) + triangle[i][j]
 
-    result = 0
-    for i in range(len(d[n-1])):
-        result = max(result, d[n-1][i])
+    result = max(d[n-1])
     
     return result
 
