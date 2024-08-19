@@ -28,6 +28,8 @@
   
   - LV3 | [등굣길](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EB%93%B1%EA%B5%A3%EA%B8%B8.py)
   
+  - LV3 | [스티커 모으기](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%8A%A4%ED%8B%B0%EC%BB%A4%EB%AA%A8%EC%9C%BC%EA%B8%B0.py)
+
   - LV3 | [정수삼각형](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%A0%95%EC%88%98%EC%82%BC%EA%B0%81%ED%98%95.py)
   
 </details>
@@ -39,6 +41,8 @@
 
   - LV2 | [기능개발](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EA%B8%B0%EB%8A%A5%EA%B0%9C%EB%B0%9C.py)
 
+  - LV2 | [주식가격](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%A3%BC%EC%8B%9D%EA%B0%80%EA%B2%A9.py)
+  
   - LV2 | [캐시](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%BA%90%EC%8B%9C.py)
 
   - LV2 | [프로세스](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.py)
