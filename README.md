@@ -12,6 +12,9 @@
   - LV3 | [기지국 설치](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EA%B8%B0%EC%A7%80%EA%B5%AD%EC%84%A4%EC%B9%98.py)
 
   - LV3 | [단속카메라](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py)
+
+  - LV3 | [숫자 게임](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.py)
+
 </details>
 
 <details>
@@ -73,6 +76,9 @@
   - LV2 | [튜플](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%ED%8A%9C%ED%94%8C.py)
 
   - LV2 | [파일명 정렬](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%ED%8C%8C%EC%9D%BC%EB%AA%85%EC%A0%95%EB%A0%AC.py)
+
+  - LV3 | [인사고과](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.py)
+
 </details>
 
 <details>
@@ -110,15 +116,13 @@
 
   - LV2 | 배열 | [방문길이](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.py)
 
-  - LV2 | [압축](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%95%95%EC%B6%95.py)
+  - LV2 | LZW 압축 | [압축](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%95%95%EC%B6%95.py)
 
-  - LV2 | [k진수에서 소수 개수 구하기](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+  - LV2 | 진수 변환 | [k진수에서 소수 개수 구하기](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 
-  - LV2 | [n진수 게임](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/n%EC%A7%84%EC%88%98%EA%B2%8C%EC%9E%84.py)
+  - LV2 | 진수 변환 | [n진수 게임](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/n%EC%A7%84%EC%88%98%EA%B2%8C%EC%9E%84.py)
 
-  - LV3 | [숫자 게임](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%88%AB%EC%9E%90%EA%B2%8C%EC%9E%84.py)
+  - LV3 | 백트래킹 | [불량 사용자](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EB%B6%88%EB%9F%89%EC%82%AC%EC%9A%A9%EC%9E%90.py)
 
-  - LV3 | [인사고과](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%9D%B8%EC%82%AC%EA%B3%A0%EA%B3%BC.py)
-
-  - LV3 | [최고의 집합](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%B5%9C%EA%B3%A0%EC%9D%98%EC%A7%91%ED%95%A9.py)
+  - LV3 | 수학적 문제 | [최고의 집합](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%B5%9C%EA%B3%A0%EC%9D%98%EC%A7%91%ED%95%A9.py)
 </details>
