@@ -90,6 +90,8 @@
 
   - LV2 | [더 맵게](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EB%8D%94%EB%A7%B5%EA%B2%8C.py)
 
+  - LV3 | [디스크 플레이어](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EB%94%94%EC%8A%A4%ED%81%AC%ED%94%8C%EB%A0%88%EC%9D%B4%EC%96%B4.py)
+
   - LV3 | [야근지수](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%95%BC%EA%B7%BC%EC%A7%80%EC%88%98.py)
 
   - LV3 | [이중우선순위큐](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.py)
