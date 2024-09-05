@@ -9,6 +9,8 @@
 
   - LV2 | [큰 수 만들기](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%ED%81%B0%EC%88%98%EB%A7%8C%EB%93%A4%EA%B8%B0.py)
 
+  - LV2 | [마법의 엘레베이터](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EB%A7%88%EB%B2%95%EC%9D%98%EC%97%98%EB%A0%88%EB%B2%A0%EC%9D%B4%ED%84%B0.py)
+
   - LV3 | [기지국 설치](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EA%B8%B0%EC%A7%80%EA%B5%AD%EC%84%A4%EC%B9%98.py)
 
   - LV3 | [단속카메라](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_3/%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.py)
@@ -67,6 +69,8 @@
 
   - LV2 | [캐시](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%BA%90%EC%8B%9C.py)
 
+  - LV2 | [택배상자](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%ED%83%9D%EB%B0%B0%EC%83%81%EC%9E%90.py)
+
   - LV2 | [프로세스](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.py)
 </details>
 
@@ -121,6 +125,8 @@
   - LV2 | 배열 | [방문길이](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.py)
 
   - LV2 | LZW 압축 | [압축](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%95%95%EC%B6%95.py)
+
+  - LV2 | 딕셔너리(해시맵) | [주차요금계산](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.py)
 
   - LV2 | 진수 변환 | [k진수에서 소수 개수 구하기](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 
