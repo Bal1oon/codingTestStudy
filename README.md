@@ -115,6 +115,17 @@
 
 <details>
   <summary>
+    HashMap
+  </summary>
+
+  - LV2 | [오픈채팅방](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.py)
+
+  - LV2 | [주차요금계산](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.py)
+
+</details>
+
+<details>
+  <summary>
     Implementation
   </summary>
 
@@ -125,8 +136,6 @@
   - LV2 | 배열 | [방문길이](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EB%B0%A9%EB%AC%B8%EA%B8%B8%EC%9D%B4.py)
 
   - LV2 | LZW 압축 | [압축](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%95%95%EC%B6%95.py)
-
-  - LV2 | 딕셔너리(해시맵) | [주차요금계산](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/%EC%A3%BC%EC%B0%A8%EC%9A%94%EA%B8%88%EA%B3%84%EC%82%B0.py)
 
   - LV2 | 진수 변환 | [k진수에서 소수 개수 구하기](https://github.com/Bal1oon/CodingTestStudy/blob/main/Programmers/Level_2/k%EC%A7%84%EC%88%98%EC%97%90%EC%84%9C%EC%86%8C%EC%88%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
 
